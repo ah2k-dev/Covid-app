@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import Countries from "./Countries";
 
 const Global = () => {
   const [global, setGlobal] = useState();

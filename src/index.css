@@ -51,5 +51,23 @@
   justify-content: space-between;
   align-items: center;
   background-color: #efefef;
+}
 
+.CountriesBox {
+  border: 1px solid;
+  padding: 20px;
+  /* display: flex; */
+  text-align: center;
+  background-color: #efefef;
+}
+/* .CountriesBox > h1{
+  border-bottom: 1px solid;
+} */
+
+.CountryValues {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  
 }
